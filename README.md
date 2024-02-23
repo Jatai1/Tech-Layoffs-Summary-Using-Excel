@@ -1,1 +1,1 @@
-# Tech-Layoffs-Summary-Using-Excel
+# In this project, I was able to showcase my skills of using Excel to gather and transform data. I am also able to use Excel built-in pivot tables and pivot charts to create a dynamic and interactive dashboard showing the job layoff situation around the world from 2020 to 2024.
